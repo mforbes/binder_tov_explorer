@@ -1,0 +1,8 @@
+dependencies:
+  - numpy
+  - scipy>=0.17.1
+  - matplotlib>=1.5
+  - uncertainties
+  - ipywidgets
+  - pip:
+    - mmf_setup>=0.1.11
